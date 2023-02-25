@@ -48,3 +48,7 @@ body{
     background-color: blueviolet;
     color: white;
 }
+
+#btn-del{
+    border:none !important;
+}
